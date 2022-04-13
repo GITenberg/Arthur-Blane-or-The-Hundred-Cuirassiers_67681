@@ -1,0 +1,30 @@
+_repo: Arthur-Blane-or-The-Hundred-Cuirassiers_67681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, James
+    birthdate: 1822
+    deathdate: 1887
+    gutenberg_agent_id: '8949'
+    url: http://www.gutenberg.org/2009/agents/8949
+    wikipedia: https://en.wikipedia.org/wiki/James_Grant_(1822%E2%80%931887)
+description: ''
+gutenberg_issued: '2022-03-22'
+identifiers:
+  gutenberg: '67681'
+language: en
+pgterms:marc904: https://archive.org/details/arthurblaneorhun00granuoft
+pgterms:marc905: 20220311171306grant
+pgterms:marc906: '1858'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :J. & C. Brown & Co.,1858.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XIII, 1610-1643 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Arthur Blane; or, The Hundred Cuirassiers
+url: http://www.gutenberg.org/ebooks/67681
